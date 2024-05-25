@@ -1,4 +1,3 @@
-
 DELETE FROM bond;
 DELETE FROM security;
 DELETE FROM fin_asset;
